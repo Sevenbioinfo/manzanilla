@@ -1,0 +1,13 @@
+ A continuación un conjunto de secuencias codificantes 
+
+   1 cgtaaaaaca actgagcgtc gagagtggac caaggaattt ttgaatacac tcgatgcttg
+       61 tcgatgcgca tttacctttg ttcttttgga cttggtgaat gtgtcattgg cgcaataaca
+      121 acccccggca caatgtgtgc caaggaaaac taaacttaag aaggcttgtt ttatgttgcc
+      181 ccgtttgcgg tgtgctcatg gaacgtggct tctttataat tacaaacgac tctcggcaac
+      241 ggatatctcg gctcacgcat cgatgaagaa cgtagcaaaa tgcgatactt ggtgtgaatt
+      301 gcagaatccc gtgaaccatc gagtttttga acgcaagttg cgcccgaagc cttttggccg
+      361 agggcacgtc tgcctgggcg tcacgcatcg cgtcgcctcc aacaaatatc tgttgggggc
+      421 ggatattggt ctcccgtgct catggtgtgg ttggccaaaa taagagtccc ttcgatggac
+      481 gcacgaacta gtggtggtcg taaaaaccct cgttctttgt tctgtgttag tcgcaaggaa
+      541 aaactctcta aataccccaa tgtgttgtct ttggatgacg cttcgaccgc gaccccaggt
+      601 caggcgggac tacccgctga gttta
